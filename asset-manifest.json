@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todoappdeployed/static/css/main.b72440c8.chunk.css",
+    "main.js": "/todoappdeployed/static/js/main.dfc8be11.chunk.js",
+    "main.js.map": "/todoappdeployed/static/js/main.dfc8be11.chunk.js.map",
+    "runtime-main.js": "/todoappdeployed/static/js/runtime-main.bbbcd309.js",
+    "runtime-main.js.map": "/todoappdeployed/static/js/runtime-main.bbbcd309.js.map",
+    "static/js/2.5544b298.chunk.js": "/todoappdeployed/static/js/2.5544b298.chunk.js",
+    "static/js/2.5544b298.chunk.js.map": "/todoappdeployed/static/js/2.5544b298.chunk.js.map",
+    "index.html": "/todoappdeployed/index.html",
+    "static/css/main.b72440c8.chunk.css.map": "/todoappdeployed/static/css/main.b72440c8.chunk.css.map",
+    "static/js/2.5544b298.chunk.js.LICENSE.txt": "/todoappdeployed/static/js/2.5544b298.chunk.js.LICENSE.txt",
+    "static/media/delete.31fb2e77.svg": "/todoappdeployed/static/media/delete.31fb2e77.svg",
+    "static/media/edit.7ba25088.svg": "/todoappdeployed/static/media/edit.7ba25088.svg",
+    "static/media/shorticon.ef1e34e9.svg": "/todoappdeployed/static/media/shorticon.ef1e34e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbbcd309.js",
+    "static/js/2.5544b298.chunk.js",
+    "static/css/main.b72440c8.chunk.css",
+    "static/js/main.dfc8be11.chunk.js"
+  ]
+}
